@@ -1,0 +1,23 @@
+[
+    {
+        "id": "9369133b-8633-4b0c-9e4c-5a05cb696167",
+        "name": "LeBaron",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "c6673452-6dda-49f8-82ba-78d85ba18460",
+        "name": "Explorer",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "a54605f9-2e5f-4261-9081-0facb8c8a290",
+        "name": "Challenger",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    }
+]
