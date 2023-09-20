@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2e6f69c9-3189-4593-b487-9d227130160a",
+        "name": "Camaro",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "0fa30d7c-3111-4389-a6dd-65574ae6c7f9",
+        "name": "Expedition",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "608fad56-2971-4cb5-b207-b8a061061793",
+        "name": "Fiesta",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    }
+]
